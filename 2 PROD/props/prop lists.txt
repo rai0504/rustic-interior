@@ -1,0 +1,46 @@
+DETAILS												|	CLEAN	| IMPERFECTION	|
+____________________________________________________|			|				|
+Architecture										|			|				|
+	1. Wooden beams									|	x		|		x		|
+	2. Wooden ceiling								|	x		|		x		|
+	3. Wooden floor									|	x		|		x		|
+	4. Stone wall									|	x		|		x		|
+	5. Wooden staircase								|	x		|		x		|
+	6. Wood and iron window							|	x		|		x		| * stained window
+____________________________________________________|			|				|
+Props												|			|				|
+	01. Animal skin rug								|	x		|		x		|
+	02. Fabric and wooden chair						|	x		|		x		|
+	03. Fabric and wooden footrest					|	x		|		x		|
+	04. Wicker Basket								|	x		|		x		|
+	05. Wicker Basket logs							|	x		|		x		|
+	06. Fire wood logs								|	x		|		x		|
+	07. Metal cauldron								|	x		|		x		|
+	08. Deer Antlers								|	x		|		x		|
+	09. Candle in metal candle holders				|	x		|		x		|
+	10. Metal Mug									|	x		|				|
+	11. Whisky set									|	x		|				|
+	12. Books										|	x		|		x		|
+	13. Wooden and glass grandfather clock			|	x		|		x		|
+	14. Wooden and metal mini-chest					|	x		|		x		|
+	15. Ceramic Vase								|	x		|		x		|
+	16. Glass bottles and jars						|	x		|				|
+	17. Hanging plant on rope						|	x		|				|
+	18. Pot plants									|	x		|				|
+	19. Wooden cupboards							|	x		|		x		|
+	20. Wooden table								|	x		|		x		|
+	21. Wooden side table							|	x		|		x		|
+	22. Paper sheets								|	x		|				|
+	23. Oil canvas painting							|	x		|		x		|
+	24. Metal firestoker							|	x		|		x		|
+	25. Metal and fabric fireblower					|	x		|		x		|
+	26. Fireplace grill								|	x		|		x		|
+	27. Fireplace wooden mantle						|	x		|		x		|
+	28. Wooden and metal chandelier					|	x		|		x		|
+	29. Wooden bowl									|	x		|		x		|
+	30. Fruit										|	x		|		x		|
+	31. Stone fireplace								|	x		|		x		|
+	32. Garlic										|	x		|				|
+	33. Herbs										|	x		|		x		|
+	34. Clay pot									|	x		|		x		|
+____________________________________________________|			|				|
